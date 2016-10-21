@@ -5,6 +5,7 @@ public class TestJava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Checking in the code");
+		System.out.println("Next code checking");
 	}
 
 }
